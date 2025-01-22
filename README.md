@@ -22,7 +22,7 @@
 
 <div align="center">
 
-<img src="https://ibb.co/BGsjKfy">  </div>
+<img src="https://i.ibb.co/qC19FDN/screenshot1.png">  </div>
 
 <div align="center"> 
 <a target="_blank" href="https://github.com/MemoSainz/Portfolio">
